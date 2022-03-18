@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#instagram{
+    background-color: gray;
+    height: 150px;
+}
+
+#products{
+    background-color: honeydew;
+}
+
+#about{
+    font-family: 'Pacifico', cursive;
+    font-size: large;
+}
+
+#about h1{
+    font-weight: bold;
+}
+
+.footer{
+    height: 180px;
+}
