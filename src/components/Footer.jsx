@@ -29,8 +29,8 @@ export default function Footer() {
                         <h3>
                             Berlangganan newsletter Dimsum Ibukota
                         </h3>
-                        <div class="mb-3 d-flex">
-                            <input type="email" class="form-control " id="exampleFormControlInput1" placeholder="Masukkan email" />
+                        <div className="mb-3 d-flex">
+                            <input type="email" className="form-control " id="exampleFormControlInput1" placeholder="Masukkan email" />
                             <button type="button" className="btn btn-danger">Daftar</button>
                         </div>
                     </div>
